@@ -13,6 +13,7 @@ tasks:
 vscode:
     extensions:
         - couchbase.vscode-couchbase
+        - golang.go
 
 # exposed ports
 ports:
